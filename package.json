@@ -1,0 +1,28 @@
+{
+  "name": "@goldix.org/logger-proxy",
+  "version": "0.0.2",
+  "description": "Base class for any type loggers. Implements logger.get(loggerName, extendOptions) functional for options inherit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-logger-proxy.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "logger",
+    "base",
+    "class"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-logger-proxy/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-logger-proxy#readme",
+  "dependencies": {
+    "@goldix.org/profiler": "0.0.1"
+  }
+}
